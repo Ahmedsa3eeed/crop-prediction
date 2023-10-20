@@ -1,4 +1,4 @@
 joblib==1.2.0
 pandas==1.5.3
-imblearn--0.10.1
+imblearn==0.10.1
 
